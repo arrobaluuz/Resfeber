@@ -114,21 +114,6 @@
     padding: 30px 50px;
     }
 
-    .apartados{
-        width:100%;
-        }
-    .apartados h2{
-        font-size: 24px;
-    }
-    .apartados p{
-        font-size: 26px;
-        background:#9aabb9;
-        border-radius: 15px;
-        margin: 10px 0;
-        padding: 30px 50px;
-    }
-
-
    /* NEWS CARDS*/
    .news-cards{
        display: grid;
