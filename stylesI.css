@@ -97,18 +97,19 @@
    /* NEWS CARDS*/
    .news-cards{
        display: grid;
-       grid-template-columns: 1fr 1fr 1fr;
+       grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
        gap: 25px;
        margin: 10px 0;
    }
    .news-cards .localidad{
        display: grid;
-       grid-template-columns: 1fr 1fr;
-       float: left;
+       grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+       gap: 25px;
+       margin: 10px 0;
    }
    .news-cards img{
        width: 100%;
-       height: 520px;
+       height: 300px;
    }
    .news-cards h3{
        font-size: 30px;
@@ -122,7 +123,7 @@
        font-weight: bold;
    
    }
-   .news-cards-i a:hover {
+   .news-cards a:hover {
        text-decoration: underline;
    }
 
