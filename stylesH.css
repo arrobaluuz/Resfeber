@@ -129,6 +129,7 @@
    .news-cards img{
        width: 100%;
        height: 520px;
+       border-radius: 15px;
    }
    .news-cards h3{
        font-size: 30px;
